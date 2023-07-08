@@ -11,7 +11,12 @@ def delete_log_files(directory):
                 print(f"Deleting file: {file_path}")
                 os.remove(file_path)
 
-directory_to_search = "C:/path/to/directory"
+
+
+directory_to_search = "C:/"
+
+
+
 delete_log_files(directory_to_search)
 
 
