@@ -1,7 +1,7 @@
 # redteam-antiforensic
 
-anti-forensic methods written in py. 
+anti-forensic methods, written in py. 
 
 # disclamer
 
-never use it bad. 
+its for studing. never use it bad. 
